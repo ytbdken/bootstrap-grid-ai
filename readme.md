@@ -2,7 +2,9 @@
 
 only the xs size has a 6 column grid
 
-#イラストレーター用のBootstrapのグリッド。
+---
+
+##イラストレーター用のBootstrapのグリッドシステム。
 xsサイズのみ6カラムグリッドにしています。
 
 ![サンプル](img/sample.jpg)
